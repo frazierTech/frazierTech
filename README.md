@@ -1,0 +1,4 @@
+-Hi, I’m @frazierTech
+-I’m interested in a comupting career
+-I’m currently learning how to use Python on the Casio fx-CG50
+-This page is a show case of my programs.
