@@ -7,5 +7,5 @@ In the precompiled files int loopCount can be changed to set the number of times
 repeated.
 In superMontyHall.c there is another variable int doorNum the effects the number of doors in game.
 
-It is recomended that int doorNum is at least 3 and int loopCount is as high as partical so there is a good sample
-size. (My computer can run the maxuim number(2147483647) that the int data type can hold)
+It is recomended that int doorNum is at least 3 and int loopCount is as high as practicaly posable so there is a 
+good sample size. (My computer can run the maxuim number(2147483647) that the int data type can hold)
